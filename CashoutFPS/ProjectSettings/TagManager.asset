@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - FxTemporaire
+  - Metal
+  - Wood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerCollision
+  - Water
+  - UI
+  - PlayerLayer
+  - FpsArmLayer
+  - MoneyCase
+  - ATM
+  - VFX
+  - MoneyBag
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player1Weapon
+  - Player2Weapon
+  - Player3Weapon
+  - Player4Weapon
+  - Player5Weapon
+  - Player6Weapon
+  - Player7Weapon
+  - Player8Weapon
+  - Player9Weapon
+  - Player10Weapon
+  - PlayerCameraUI
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
